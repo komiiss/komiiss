@@ -1,25 +1,26 @@
-## 👋 Oi! Eu sou o Matheus
+## Sobre mim 🎓
 
-🎓 Estudante de Engenharia de Software e também faço curso técnico em Recursos Humanos na ETEC Doutora Maria Augusta Saraiva.
+Olá! Me chamo Matheus, sou estudante do Ensino Médio com formação técnica em Recursos Humanos na ETEC Dra. Maria Augusta Saraiva. Atualmente, também estou me preparando para ingressar na graduação em Engenharia de Software.
 
-💻 Estou construindo meu caminho como futuro engenheiro de software e compartilhando meus projetos por aqui.
+Tenho interesse na área de desenvolvimento Back-End 💻, com foco em Python e lógica de programação 🧠. Estou em busca de oportunidades como Jovem Aprendiz ou estágio na área de TI 💼 para desenvolver minhas habilidades práticas e crescer profissionalmente 📈.
 
-📌 Estou aprendendo e me aprofundando em linguagens e ferramentas como:
+## Tecnologias que estou aprendendo 🔧
 
-- **Python**
-- **JavaScript**
-- **HTML & CSS**
-- **Java**
-- **SQL**
-- **Git & GitHub**
+- Python  
+- Git e GitHub  
+- Lógica de programação  
+- Fundamentos de banco de dados
 
-✨ Objetivos:
-- Criar um portfólio sólido com projetos reais
-- Contribuir com projetos open source
-- Melhorar minhas habilidades de programação todos os dias
-- Conseguir oportunidades incríveis na área de tecnologia, inclusive no exterior 🌍
+## Objetivos 🚀
 
-📬 Meus repositórios são um pouco do que eu estou aprendendo e testando. Fique à vontade pra explorar!
+- Iniciar minha graduação em Engenharia de Software  
+- Conquistar meu primeiro estágio em tecnologia  
+- Evoluir meus conhecimentos em desenvolvimento Back-End
+
+📍 São Paulo - SP  
+---
+
+Sinta-se à vontade para explorar meus projetos! Estão em fase inicial, mas representam um pouco do que venho aprendendo nessa jornada na área de tecnologia. 📚💻
 
 <div>
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
