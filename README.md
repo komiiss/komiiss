@@ -1,13 +1,12 @@
 ## Sobre mim 🎓
 
-Olá! Me chamo Matheus, sou estudante do Ensino Médio com formação técnica em Recursos Humanos na ETEC Dra. Maria Augusta Saraiva. Atualmente, também estou me preparando para ingressar na graduação em Engenharia de Software.
-
-Tenho interesse na área de desenvolvimento Back-End 💻, com foco em Python e lógica de programação 🧠. Estou em busca de oportunidades como Jovem Aprendiz ou estágio na área de TI 💼 para desenvolver minhas habilidades práticas e crescer profissionalmente 📈.
+Olá! Me chamo Matheus, sou estudante do curso técnico de Recursos Humanos na ETEC Doutora Maria Augusta Saraiva e estou iniciando minha jornada também em Engenharia de Software. Tenho um olhar atento tanto para o comportamento humano quanto para a lógica dos códigos acredito que entender pessoas e tecnologia é o combo perfeito para transformar o futuro.
 
 ## Tecnologias que estou aprendendo 🔧
 
 - Python  
-- Git e GitHub  
+- Git e GitHub
+- html e css  
 
 ## Objetivos 🚀
 
