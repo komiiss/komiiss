@@ -8,8 +8,6 @@ Tenho interesse na área de desenvolvimento Back-End 💻, com foco em Python e 
 
 - Python  
 - Git e GitHub  
-- Lógica de programação  
-- Fundamentos de banco de dados
 
 ## Objetivos 🚀
 
