@@ -18,6 +18,21 @@ sou estudante do curso técnico de Recursos Humanos na ETEC Doutora Maria August
 - Conquistar meu primeiro estágio em tecnologia  
 - Evoluir meus conhecimentos em desenvolvimento Back-End
 
+---
+
+``🎮 Projetos em Scratch``
+
+Além de projetos em HTML, CSS e JavaScript, desenvolvo **mini games na plataforma Scratch** com foco em:
+
+- Lógica de programação  
+- Narrativas interativas  
+- Sistemas de escolhas e eventos  
+- Prototipação de ideias de jogos  
+
+Os projetos são utilizados como forma de treino de raciocínio lógico, organização de fluxos e construção de interações, servindo como base para projetos mais complexos em outras linguagens.
+
+---
+
  ``estatísticas 📊``
  </br>
 
